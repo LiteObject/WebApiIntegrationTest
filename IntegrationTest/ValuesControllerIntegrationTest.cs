@@ -13,6 +13,7 @@ namespace IntegrationTest
 
     /// <summary>
     /// The values controller integration test.
+    /// Source: https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-2.2
     /// </summary>
     public class ValuesControllerIntegrationTest
     {

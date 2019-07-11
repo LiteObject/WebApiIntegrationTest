@@ -5,7 +5,7 @@
     using Microsoft.AspNetCore.Mvc;
 
     /// <summary>
-    ///     The values controller.
+    /// The values controller.
     /// </summary>
     [Route("api/[controller]")]
     [ApiController]
